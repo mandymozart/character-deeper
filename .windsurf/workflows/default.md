@@ -1,5 +1,5 @@
 ---
-trigger: manual
+description: Default
 ---
 
 <steps>
