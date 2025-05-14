@@ -1,3 +1,4 @@
+done with GPT 4.1
 # Plotline Generation Inspired by "Requiem for a Dream"
 
 *Generated in the analytic, precise style of a film study professor*

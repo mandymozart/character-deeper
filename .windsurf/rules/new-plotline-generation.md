@@ -7,11 +7,11 @@ generate a new plotline based on an existing script
 </objective>
 
 <input-requirements>
-- title of film to analysis @web
+- title of film to analysis 
 </input-requirements>
 
 <research-criteria>
-movies are relevant if the imdb scores  above a rating of 6 double check with the web to not halluciate.
+movies are relevant if the imdb scores  above a rating of 6.
 </research-criteria>
 
 <output-format>
@@ -36,3 +36,7 @@ thats fine)
 - based on the key characteristics of `sub-process name="suggestions"` create 10 brief (100words) original plot summaries (blurbs).
 
 </sub-process-generator>
+
+<output>
+- save a file of your output in output/plotline-inspired-by-{film-name}-{timestamp}.md
+</output>
